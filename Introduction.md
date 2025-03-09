@@ -1,2 +1,0 @@
-# Logic-s-repository
-none
